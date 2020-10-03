@@ -41,10 +41,12 @@
       ]
     ],
         "versions": [
-      "V1.2"
+      "V1.2",
+      "無敵版"
     ],
         "links": [
-      "https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory/V1.2.rar"
+      "https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory/V1.2.zip",
+      "https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory_x/V1.2.zip"
     ]
   },
     {
