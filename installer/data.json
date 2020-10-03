@@ -39,8 +39,8 @@
   },
     {
         "icon": "小圖",
-        "title": "島國勇者",
-        "name": "島國勇者 Hero of Island",
+        "title": "夢都秘境",
+        "name": "夢都秘境 Mysterious Territory",
         "images": [
       [
         "大圖"
@@ -50,16 +50,16 @@
         "introduction": "簡介",
         "update_log": "更新日誌",
         "versions": [
-      "V1.5"
+      "V1.2"
     ],
         "links": [
-      "https://github.com/tony2265/map/releases/download/rpg_Hero_of_Island/V1.5.zip"
+      "https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory/V1.2.rar"
     ]
   },
     {
         "icon": "小圖",
-        "title": "短標",
-        "name": "長標",
+        "title": "詛咒之冬",
+        "name": "詛咒之冬 Winter of Curse",
         "images": [
       [
         "大圖"
@@ -69,10 +69,10 @@
         "introduction": "簡介",
         "update_log": "更新日誌",
         "versions": [
-      "版本"
+      "V1.6"
     ],
         "links": [
-      "下載連結"
+      "https://github.com/tony2265/map/releases/download/ctm_woc/V1.6.zip"
     ]
   }
 ]
