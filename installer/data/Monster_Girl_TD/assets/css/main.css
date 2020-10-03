@@ -2569,3 +2569,7 @@ button,
     }
 
 }
+
+body::-webkit-scrollbar {
+    display: none;
+}
