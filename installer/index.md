@@ -1,37 +1,121 @@
-## Welcome to GitHub Pages
+---
+title: 【試用】新人須知
+tags: all
+description: 
+---
 
-You can use the [editor on GitHub](https://github.com/tony2265/app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+新人須知
+===
+:::info
 
-### Markdown
+建置時間：20180221
+登錄時間：20200318
+最後更新日：20200705
+建置者：嗡嗡
+登錄者：嗡嗡
+:::
+:::success
+歡迎加入夢想之都工作室 :tada: 
+成為了我們的一份子，下方資訊請務必詳閱！
+:::
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 組織架構
++ 夢想之都工作室（以下簡稱本團隊）以團長為團隊最高領導及負責人。
++ 本團隊設有建築設計、故事企劃、技術工程、美術宣傳及網路實況部門與顧問小組。
+  + 各部門設有首席及次席各一人，領導部門，為部門之軸心。
+  + 團內顧問需由團長邀請後，方可擔任。
++ 團長、各部門首席、次席及邀請參議之顧問，共同組成管理小組，為團隊事務進行決策。
 
-```markdown
-Syntax highlighted code block
+ **現任管理小組幹部**
 
-# Header 1
-## Header 2
-### Header 3
+ | 職稱 | 暱稱 | 職稱 | 暱稱 |
+ | :----: | :----:| :----: | :----:|
+ | 團長 | 嗡嗡  | 
+ | 建築設計－首席|暮朗| 建築設計－次席|Ｉ醬|
+ | 故事企劃－首席|碎月| 故事企劃－次席|ＣＢ|
+ | 網路實況－首席|派大星 | 顧問小組－參議|米格|
+ | 技術工程－首席|那卡| 顧問小組－參議|提摩|
+ | 美術宣傳－首席|莫嵐|網路實況－次席|冰樂|
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+## 部門簡介
+> **建築設計部門** 
+> 主要負責各式地圖專案之地形編輯、建築建設。
+> [color=#2B5BCA]
 
-[Link](url) and ![Image](src)
-```
+> **故事企劃部門**
+> 主要負責企劃編寫、構思團隊活動、文案處理、會議事務、官網更新維護。
+> [color=#BC30CA]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> **美術宣傳部**
+> 主要負責團隊宣傳用之圖片繪畫及編輯、材質包之製作。
+> [color=#FF6B33]
 
-### Jekyll Themes
+> **技術工程部門**
+> 主要負責建構各式地圖專案之紅石指令部分。
+> [color=#48BD30]
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tony2265/app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> **實況影音部門**
+> 協助地圖宣傳，負責動畫製作與預告片製作。
+> [color=#F054C2]
+---
 
-### Support or Contact
+## 專案
++ 本團隊以專案作為軸心事務，多數專案為地圖創作。
++ 專案由管理小組指定負責人，各部門分工進行。
++ 正式成員可自由參與專案，試用期成員需在部門首席核可後，得參與專案。
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 會議
++ 本團隊會議主要分為部門會議、團隊常會、管理小組會議、地圖專案會議、臨時會議。
+> **部門會議**
+>由各部門負責人召集，討論部門內務，僅有部門內成員得以參加。
+>[color=#BC75CA]
+
+> **團隊常會**：
+> 為全體成員共同召開之定期會議，會議每兩週召開一次，選定在假日晚上。
+> [color=#F7E419]
+
+> **管理小組會議**
+>由幹部組成，擁有僅次團隊常會之決策權及議題之優先決策權。
+>[color=#BC75CA]
+
+> **地圖專案會議**
+>由地圖專案負責人召集，討論地圖專案議題之會議，僅有參與地圖專案之成員得以列席。
+>[color=#F7E419]
+
+> **臨時會議**
+>非定期之會議，其議題及與會者皆由召集人定之。
+>[color=#BC75CA]
+---
+月底評估
+---
+* 各部門首席將於每月月底對所屬部門之試用期成員進行評估，評估依據為：
+    * 團隊專案參與程度。
+    * 團隊常會出席率。
+    * 成果表現。
+    * 與部門成員的相處及合作。
+
+* 依據評估結果將由團長下達處分：
+    * 結束試用期，升任正式成員。
+    * 結束試用期，不通過。
+    * 繼續試用期。
+
+:::info
+:mega: 有任何問題歡迎找相關幹部提問。
+:::
+
+
+<style>
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+#doc{
+  font-family:'Microsoft JhengHei', sans-serif;!important;
+}
+.CodeMirror{
+  font-family:monospace, 'Microsoft JhengHei';
+}
+
+</style>
