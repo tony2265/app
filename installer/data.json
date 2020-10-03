@@ -1,16 +1,13 @@
 [
     {
-        "icon": "小圖",
+        "main": "Monster_Girl_TD",
         "title": "妖姬塔防",
         "name": "妖姬塔防 Monster Girl TD",
         "images": [
       [
-        "大圖"
+        "https://app.dreamcity.studio/installer/data/Monster_Girl_TD/images/1.png"
       ]
     ],
-        "editor": "製作名單",
-        "introduction": "簡介",
-        "update_log": "更新日誌",
         "versions": [
       "製作中..."
     ],
@@ -19,17 +16,14 @@
     ]
   },
     {
-        "icon": "小圖",
+        "main": "Hero_of_Island",
         "title": "島國勇者",
         "name": "島國勇者 Hero of Island",
         "images": [
       [
-        "大圖"
+        "https://app.dreamcity.studio/installer/data/Hero_of_Island/images/1.png"
       ]
     ],
-        "editor": "製作名單",
-        "introduction": "簡介",
-        "update_log": "更新日誌",
         "versions": [
       "V1.5"
     ],
@@ -38,17 +32,14 @@
     ]
   },
     {
-        "icon": "小圖",
+        "main": "Mysterious_Territory",
         "title": "夢都秘境",
         "name": "夢都秘境 Mysterious Territory",
         "images": [
       [
-        "大圖"
+        "https://app.dreamcity.studio/installer/data/Mysterious_Territory/images/1.png"
       ]
     ],
-        "editor": "製作名單",
-        "introduction": "簡介",
-        "update_log": "更新日誌",
         "versions": [
       "V1.2"
     ],
@@ -57,17 +48,14 @@
     ]
   },
     {
-        "icon": "小圖",
+        "main": "Winter_of_Curse",
         "title": "詛咒之冬",
         "name": "詛咒之冬 Winter of Curse",
         "images": [
       [
-        "大圖"
+        "https://app.dreamcity.studio/installer/data/Winter_of_Curse/images/1.png"
       ]
     ],
-        "editor": "製作名單",
-        "introduction": "簡介",
-        "update_log": "更新日誌",
         "versions": [
       "V1.6"
     ],
