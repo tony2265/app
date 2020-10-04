@@ -2326,7 +2326,7 @@ button,
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 80vw;
+  width: 60vw;
   height: 100px;
   max-width: 1000px;
   position: relative;
@@ -2353,13 +2353,13 @@ button,
   background-color: #005FAD;
   width: 4vw;
   height: 5px;
-  max-width: 50px;
+  max-width: 200px;
 }
 .input::before {
-  left: calc(-4vw + 12.5px);
+  left: calc(-5vw + 12.5px);
 }
 .input::after {
-  right: calc(-4vw + 12.5px);
+  right: calc(-5vw + 12.5px);
 }
 .input.active {
   background-color: #005FAD;
@@ -2444,10 +2444,10 @@ button,
     height: 3px;
   }
   .input::before {
-    left: calc(-4vw + 8.5px);
+    left: calc(-5vw + 12.5px);
   }
   .input::after {
-    right: calc(-4vw + 8.5px);
+    right: calc(-5vw + 12.5px);
   }
 }
 @media (max-width: 600px) {
