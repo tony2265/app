@@ -2351,7 +2351,7 @@ button,
   top: 50%;
   transform: translateY(-50%);
   background-color: #005FAD;
-  width: 4vw;
+  width: 20vw;
   height: 5px;
   max-width: 200px;
 }
