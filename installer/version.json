@@ -1,0 +1,10 @@
+{
+  "app_version": {
+    "ver": "V1.0",
+    "url": "http:example.com"
+  },
+  "update_version": {
+    "ver": "V1.0",
+    "url": "http:example.com"
+  }
+}
