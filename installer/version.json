@@ -1,10 +1,10 @@
 {
   "app_version": {
     "ver": "V1.0",
-    "url": "http:example.com"
+    "url": "https://github.com/tony2265/app/releases/download/V1.0/Map_Installer.7z"
   },
   "update_version": {
     "ver": "V1.0",
-    "url": "http:example.com"
+    "url": "https://github.com/tony2265/app/releases/download/V1.0/Map_Installer.7z"
   }
 }
