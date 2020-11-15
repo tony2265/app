@@ -65,21 +65,5 @@
         "links": [
       "https://github.com/tony2265/app/releases/download/Winter_of_Curse/map_V1.6.7z"
     ]
-  },
-    {
-        "main": "Winter_of_Curse",
-        "title": "測試",
-        "name": "測試 Test",
-        "images": [
-      [
-        "https://app.dreamcity.studio/installer/data/Winter_of_Curse/images/1.jpg"
-      ]
-    ],
-        "versions": [
-      "Beta"
-    ],
-        "links": [
-      "https://github.com/tony2265/map/releases/download/test/test.7z"
-    ]
   }
 ]
