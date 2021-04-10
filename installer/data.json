@@ -1,5 +1,20 @@
 [
     {
+        "main": "Survival_Trial_III",
+        "title": "生存試煉III",
+        "name": "生存試煉III Survival Trial III",
+        "images": [
+      [
+        "https://app.dreamcity.studio/installer/data/Survival_Trial_III/images/1.jpg"
+      ]
+    ],
+        "versions": [
+      "V1.0"
+    ],
+        "links": [
+      "https://github.com/tony2265/map/releases/download/survival_Survival_Trial_III/V1.0.zip"
+    ]
+  },{
         "main": "Monster_Girl_TD",
         "title": "妖姬塔防",
         "name": "妖姬塔防 Monster Girl TD",
