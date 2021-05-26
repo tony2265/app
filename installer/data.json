@@ -40,10 +40,11 @@
       ]
     ],
         "versions": [
-      "V1.5"
+      "V1.6","V1.5"
     ],
         "links": [
-      "https://github.com/tony2265/app/releases/download/Hero_of_Island/map_V1.5_r.7z"
+      "https://github.com/tony2265/app/releases/download/Hero_of_Island/map_V1.6.7z",
+	  "https://github.com/tony2265/app/releases/download/Hero_of_Island/map_V1.5_r.7z"
     ]
   },
     {
